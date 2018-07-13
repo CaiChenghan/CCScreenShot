@@ -1,0 +1,6 @@
+framework module CCScreenShot {
+  umbrella header "CCScreenShot-umbrella.h"
+
+  export *
+  module * { export * }
+}

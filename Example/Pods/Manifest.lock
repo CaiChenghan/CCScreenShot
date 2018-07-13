@@ -1,0 +1,23 @@
+PODS:
+  - CCScreenShot (0.0.1)
+  - CRToast (0.0.9)
+
+DEPENDENCIES:
+  - CCScreenShot (from `../`)
+  - CRToast (~> 0.0.9)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CRToast
+
+EXTERNAL SOURCES:
+  CCScreenShot:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCScreenShot: 30789d53c23bd660186ca9e4f95e1b88c0b11916
+  CRToast: 5a78c22b921c5ed3487488af605bc403a9c92fed
+
+PODFILE CHECKSUM: 058a8408e3c7119f5f3f03fb73384874adcca3fd
+
+COCOAPODS: 1.5.0

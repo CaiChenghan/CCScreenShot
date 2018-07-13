@@ -1,0 +1,6 @@
+framework module Pods_CCScreenShot_Tests {
+  umbrella header "Pods-CCScreenShot_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

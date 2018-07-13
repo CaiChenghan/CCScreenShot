@@ -1,0 +1,6 @@
+framework module Pods_CCScreenShot_Example {
+  umbrella header "Pods-CCScreenShot_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

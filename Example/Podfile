@@ -1,0 +1,11 @@
+use_frameworks!
+platform :ios, '8.0'
+target 'CCScreenShot_Example' do
+  pod 'CCScreenShot', :path => '../'
+	pod 'CRToast', '~> 0.0.9'
+  target 'CCScreenShot_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
